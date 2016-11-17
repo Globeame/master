@@ -141,6 +141,12 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "30px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -196,13 +202,7 @@
             "showBullets": true
           },
           "_anchor": "slider-d",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "left",
-              "font-size": "30px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -234,7 +234,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bautizos-600x600-80.png",
+              "src": "@PROJECT_PATH@/assets/images/prueba-600x608-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -334,6 +334,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-h",
           "_params": {
             "labelsColor": "#232323",
@@ -379,12 +384,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
         }
       ]
     },
@@ -494,6 +494,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-p",
           "_params": {
             "paddingTop": "3",
@@ -539,21 +547,21 @@
           },
           "title": "NOSOTROS",
           "text": "<b>¿Qué es olé globos?<br></b><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Olé globos y eventos nace para ofreceros este servicio. Para que en el mismo día podáis sorprender a la persona que queréis, enviándole un gran ramillete de globos, unas rosas, una tarta de pañales o una bonita tarjeta con dedicatoria.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#3d8eb9"
+            },
+            "P": {
+              "color": "#3d8eb9"
+            }
+          },
           "_anchor": "contacts2-r",
           "_params": {
             "paddingTop": "2",
@@ -574,15 +582,7 @@
             }
           },
           "text1": "<strong>Dirección</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contactos</strong><br>\nEmail: support@mobirise.com<br>Tfno: +1 (0) 000 0000 001<br>Whatsapp: +1 (0) 000 0000 002",
-          "text2": "",
-          "_styles": {
-            "STRONG": {
-              "color": "#3d8eb9"
-            },
-            "P": {
-              "color": "#3d8eb9"
-            }
-          }
+          "text2": ""
         }
       ]
     }
