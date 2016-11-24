@@ -154,22 +154,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/imagentest1-2000x709-71.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "FULL SCREEN SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#form1-h\" data-toolbar=\"-mbrBtnMove\">CONTACTANOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#features3-s\" data-toolbar=\"-mbrBtnMove\">SERVICIOS</a>"
-              },
-              {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/imagentest2-2000x713-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x980-71.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -184,17 +170,48 @@
               },
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
+                "image": "@PROJECT_PATH@/assets/images/1-2000x980-85.jpg",
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "left",
+                "overlayOpacity": "0.1",
+                "contentAlign": "center",
                 "showTitle": true,
-                "title": "VIDEO SLIDE",
+                "title": "Organizamos tu boda de principio a fin",
                 "showText": true,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "text": "",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/3-2000x980-98.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Organizamos tu boda de principio a fin",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/5-2000x980-7.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.1",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": true,
@@ -234,7 +251,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/prueba-600x608-2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bautizos-600x600-59.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
