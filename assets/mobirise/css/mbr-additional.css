@@ -478,12 +478,30 @@ h6,
 #ext_menu-1 .dropdown-item[aria-expanded="true"] {
   color: #ff64a1!important;
 }
-#slider-d H2 {
+#slider2-t .mbr-section-title,
+#slider2-t .mbr-section-lead {
+  color: #fff;
+}
+#slider2-t H2 {
+  font-size: 36px;
+}
+#slider2-t SPAN {
   text-align: left;
-  font-size: 30px;
+  font-size: 21px;
+}
+#slider2-t DIV {
+  text-align: right;
+  font-size: 19px;
+}
+#slider2-x .mbr-section-title,
+#slider2-x .mbr-section-lead {
+  color: #fff;
 }
 #form1-h .form-control-label {
   color: #232323;
+}
+#form1-h .mbr-section-title {
+  font-size: 32px;
 }
 
 
@@ -561,5 +579,5 @@ h6,
   color: #3d8eb9;
 }
 #contacts2-r P {
-  color: #3d8eb9;
+  color: #000000;
 }
